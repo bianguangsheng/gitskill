@@ -1,3 +1,4 @@
 readme
 insert some contents for readme.txt
-creating a new branch is quick & simple;
+creating a new branch is quick & simpledog;
+hahahhaha 
